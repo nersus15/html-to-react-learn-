@@ -39,7 +39,7 @@ export default function Header(props) {
               </ul>
               <ul className="list-reset header-nav-right">
                 <li>
-                  <Button isPrimary isSmall isWideMobile childern={"SIGN UP"} />
+                  <Button isPrimary isSmall isWideMobile children={"SIGN UP"} />
                 </li>
               </ul>
             </div>
